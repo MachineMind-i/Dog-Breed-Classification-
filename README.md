@@ -1,2 +1,1 @@
-#bug_tech
-Just a curious guy  about the cutting edge tech. emerging in the coming times.
+As a machine learning engineer, I am passionate about creating intelligent systems that can learn and improve on their own. With expertise in Python, TensorFlow, and scikit-learn, I have worked on a variety of projects in natural language processing, computer vision, and data analysis.
